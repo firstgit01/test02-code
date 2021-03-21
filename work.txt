@@ -1,0 +1,7 @@
+Import the module, set the timeout and enable it:
+
+Import-Module .\cmatrix
+Set-ScreenSaverTimeout -Seconds 5
+Enable-ScreenSaver
+
+just testing git
